@@ -11,6 +11,6 @@
 https://youtu.be/wCj9uo0Fd4A?si=2DM0MMX4yTvHBX9A
 
 ## 2023 청강게임잼 동상
-* [SnowFoxpptx.pdf](https://github.com/jangeungye/SnowFox1/files/14652535/SnowFoxpptx.pdf)
+[SnowFoxpptx.pdf](https://github.com/jangeungye/SnowFox1/files/14652535/SnowFoxpptx.pdf)
 
 
