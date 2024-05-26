@@ -2,12 +2,10 @@
 
 [Game Development Journey.pdf](https://github.com/jangeungye/PDFPortfolio/files/14716644/Game.Development.Journey.pdf)
 
-[SANABI Copy Practice PORTFOLIO.pdf](https://github.com/jangeungye/PDFPortfolio/files/14716646/SANABI.Copy.Practice.PORTFOLIO.pdf)
-
 [BreakOut The Prison Escape.pdf](https://github.com/jangeungye/PDFPortfolio/files/14716647/BreakOut.The.Prison.Escape.pdf)
 
-
-## 2DSANABI 모작
+#### 2DSANABI 모작
+[SANABI Copy Practice PORTFOLIO.pdf](https://github.com/jangeungye/PDFPortfolio/files/14716646/SANABI.Copy.Practice.PORTFOLIO.pdf)
 
 
 
