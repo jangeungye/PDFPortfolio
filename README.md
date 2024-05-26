@@ -1,4 +1,4 @@
-## unity5 
+## unity5-pdf
 
 [Game Development Journey.pdf](https://github.com/jangeungye/PDFPortfolio/files/14716644/Game.Development.Journey.pdf)
 
@@ -11,7 +11,6 @@
 [SnowFoxpptx.pdf](https://github.com/jangeungye/SnowFox1/files/14652535/SnowFoxpptx.pdf)
 
 
-# PythonSkills 
-#### Word 파일
+## Python-Word
 * ### Python으로 복권 번호당 당첨 횟수 알아보기 
 * ### 두 점사이의 거리_기하
